@@ -1,0 +1,5 @@
+menurut saya yang akan terisi lebih dahulu adalah cangkir nomer 4
+karena di tabung awal pipa yang menuju nomer 4 dan 9 lebih rendah
+sehingga tabung nomer 4 dan 9 akan terisi lebih dahulu
+lalu pipa nomer 4 lebih rendah dari pada pipa 9
+sehingga cangkir nomer 4 akan terisi lebih dahulu
